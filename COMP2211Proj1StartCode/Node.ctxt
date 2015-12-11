@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=Node(char)
+comment0.text=\r\n\ Creates\ a\ new\ node,\ storing\ a\ given\ data\r\n\ \ \ \ the\ new\ node\ has\ no\ children\ to\ start\ with\r\n\r\n\ @param\ d\ the\ character\ to\ be\ stored\ in\ the\ node\r\n
+comment1.params=
+comment1.target=char\ getData()
+comment1.text=\r\n\ Read\ the\ data\ stored\ in\ the\ node\r\n\r\n\ @return\ the\ character\ stored\ in\ the\ node\r\n
+comment2.params=
+comment2.target=BinaryTree\ getLeftChild()
+comment2.text=\r\n\ Read\ the\ left\ child\ of\ the\ node\r\n\r\n\ @return\ the\ reference\ to\ the\ left\ child\r\n
+comment3.params=
+comment3.target=BinaryTree\ getRightChild()
+comment3.text=\r\n\ Read\ the\ right\ child\ of\ the\ node\r\n\r\n\ @return\ the\ reference\ to\ the\ right\ child\r\n
+comment4.params=d
+comment4.target=void\ setData(char)
+comment4.text=\r\n\ Modify\ the\ data\ part\ of\ the\ node\r\n\r\n\ @param\ d\ the\ new\ character\ to\ be\ stored\ in\ the\ node\r\n
+comment5.params=l
+comment5.target=void\ setLeftChild(BinaryTree)
+comment5.text=\r\n\ Modify\ the\ left\ child\ part\ of\ the\ node\r\n\r\n\ @param\ l\ the\ new\ left\ child\r\n
+comment6.params=r
+comment6.target=void\ setRightChild(BinaryTree)
+comment6.text=\r\n\ Modify\ the\ right\ child\ part\ of\ the\ node\r\n\r\n\ @param\ r\ the\ new\ right\ child\r\n
+numComments=7

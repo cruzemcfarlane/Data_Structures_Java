@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinaryTree()
+comment1.params=n
+comment1.target=BinaryTree(Node)
+comment10.params=flag
+comment10.target=void\ deleteSubtree(int)
+comment10.text=\r\n\ delete\ a\ subtree\r\n\r\n\ @param\ flag\ the\ position\ for\ the\ deletion\ (0\=left,\ 1\=right)\r\n
+comment11.params=
+comment11.target=BinaryTree\ copyTree()
+comment11.text=\r\n\ creates\ a\ copy\ of\ the\ tree\r\n\r\n\ @return\ a\ copy\ of\ the\ tree\r\n
+comment2.params=
+comment2.target=BinaryTree\ getLeft()
+comment2.text=\r\n\ Determines\ the\ left\ subtree\ of\ the\ tree\r\n\r\n\ @return\ the\ left\ subtree\r\n
+comment3.params=
+comment3.target=BinaryTree\ getRight()
+comment3.text=\r\n\ Determines\ the\ right\ subtree\ of\ the\ tree\r\n\r\n\ @return\ the\ right\ subtree\r\n
+comment4.params=
+comment4.target=boolean\ emptyTree()
+comment4.text=\r\n\ Determines\ whether\ the\ tree\ is\ empty\ or\ not\r\n\r\n\ @return\ true\ if\ the\ tree\ is\ empty\r\n
+comment5.params=t
+comment5.target=boolean\ equals(BinaryTree)
+comment5.text=\r\n\ Determines\ whether\ two\ trees\ are\ identical\r\n\r\n\ @param\ t\ another\ tree\r\n\ @return\ true\ if\ the\ two\ trees\ are\ equal\r\n
+comment6.params=
+comment6.target=char\ getRoot()
+comment6.text=\r\n\ Determines\ the\ content\ of\ the\ root\ of\ the\ tree\r\n\r\n\ @return\ the\ content\ of\ the\ root\r\n
+comment7.params=
+comment7.target=int\ getSize()
+comment7.text=\r\n\ Determines\ the\ size\ of\ the\ tree\r\n\r\n\ @return\ the\ number\ of\ nodes\ in\ the\ tree\r\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\r\n\ produces\ a\ string\ representation\ of\ the\ tree\r\n\r\n\ @return\ a\ string\ representation\ of\ the\ tree\r\n
+comment9.params=c\ flag
+comment9.target=void\ insertNode(char,\ int)
+comment9.text=\r\n\ insert\ a\ new\ node\ in\ the\ tree\r\n\r\n\ @param\ c\ the\ character\ to\ be\ inserted\ in\ the\ new\ node\r\n\ @param\ flag\ the\ position\ for\ the\ insertion\ (0\=left,\ 1\=right)\r\n
+numComments=12
